@@ -1,0 +1,49 @@
+.firstrow{
+    margin-top: 50px;
+}
+
+.topnav{
+    background-color: white;
+    border: none;
+    margin-bottom: none;
+}
+.secondrow{
+    margin-top: 0px;
+}
+.sizes{
+    background-color: lightgray;
+    border-radius: 50%;
+    font-size: 12px;
+}
+
+.modelcontainer{
+ position: relative;
+ text-align: center;
+ background-color: white;
+} 
+
+.freeshipping{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    background-color: black;
+    color: white;
+}
+
+.yellowline{
+    width: 20px;
+    border: solid 1px rgb(255, 255, 5);
+    margin: auto;
+}
+
+span{
+    color: rgb(162, 162, 162);
+}
+.addtocart{
+    width: 100%;
+    background-color: black;
+}
+
+b{
+    font-size: 20px;
+}
